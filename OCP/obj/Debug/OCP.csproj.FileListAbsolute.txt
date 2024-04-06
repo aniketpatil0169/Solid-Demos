@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Coding Standred\OCP\bin\Debug\OCP.exe.config
+C:\Users\Dell\source\repos\Coding Standred\OCP\bin\Debug\OCP.exe
+C:\Users\Dell\source\repos\Coding Standred\OCP\bin\Debug\OCP.pdb
+C:\Users\Dell\source\repos\Coding Standred\OCP\obj\Debug\OCP.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Coding Standred\OCP\obj\Debug\OCP.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Coding Standred\OCP\obj\Debug\OCP.exe
+C:\Users\Dell\source\repos\Coding Standred\OCP\obj\Debug\OCP.pdb
