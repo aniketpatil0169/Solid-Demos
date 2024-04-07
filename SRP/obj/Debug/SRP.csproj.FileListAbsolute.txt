@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Coding Standred\SRP\bin\Debug\SRP.exe.config
+C:\Users\Dell\source\repos\Coding Standred\SRP\bin\Debug\SRP.exe
+C:\Users\Dell\source\repos\Coding Standred\SRP\bin\Debug\SRP.pdb
+C:\Users\Dell\source\repos\Coding Standred\SRP\obj\Debug\SRP.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Coding Standred\SRP\obj\Debug\SRP.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Coding Standred\SRP\obj\Debug\SRP.exe
+C:\Users\Dell\source\repos\Coding Standred\SRP\obj\Debug\SRP.pdb
